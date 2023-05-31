@@ -1,0 +1,263 @@
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.exe
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.deps.json
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.runtimeconfig.json
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.pdb
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.AssemblyReference.cache
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.Form1.resources
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.GenerateResource.cache
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.AssemblyInfoInputs.cache
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.AssemblyInfo.cs
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.CoreCompileInputs.cache
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\refint\BattleShip2077.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.pdb
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.genruntimeconfig.cache
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\ref\BattleShip2077.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\79500\Desktop\Курсач\Вариант на С#\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.CopyComplete
+E:\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.exe
+E:\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.deps.json
+E:\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.runtimeconfig.json
+E:\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.pdb
+E:\BattleShip2077\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\BattleShip2077\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.AssemblyReference.cache
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.Form1.resources
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.Form2.resources
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.GenerateResource.cache
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.GeneratedMSBuildEditorConfig.editorconfig
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.AssemblyInfoInputs.cache
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.AssemblyInfo.cs
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.CoreCompileInputs.cache
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.CopyComplete
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.dll
+E:\BattleShip2077\obj\Debug\net6.0-windows\refint\BattleShip2077.dll
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.pdb
+E:\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.genruntimeconfig.cache
+E:\BattleShip2077\obj\Debug\net6.0-windows\ref\BattleShip2077.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.exe
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.deps.json
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.runtimeconfig.json
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.pdb
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.AssemblyReference.cache
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.Form1.resources
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.Form2.resources
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.GenerateResource.cache
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.AssemblyInfoInputs.cache
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.AssemblyInfo.cs
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.CoreCompileInputs.cache
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.CopyComplete
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.dll
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\refint\BattleShip2077.dll
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.pdb
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.genruntimeconfig.cache
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\ref\BattleShip2077.dll
+C:\Users\79500\Desktop\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.Bot.resources
+C:\Users\79500\Desktop\BattleShip2077\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.exe
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.deps.json
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.runtimeconfig.json
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\BattleShip2077.pdb
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.AssemblyReference.cache
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.Bot.resources
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.Form1.resources
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.Form2.resources
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.GenerateResource.cache
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.AssemblyInfoInputs.cache
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.AssemblyInfo.cs
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.CoreCompileInputs.cache
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.csproj.CopyComplete
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\refint\BattleShip2077.dll
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.pdb
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\BattleShip2077.genruntimeconfig.cache
+C:\Users\79500\Desktop\Новая папка\BattleShip2077\obj\Debug\net6.0-windows\ref\BattleShip2077.dll

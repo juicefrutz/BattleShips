@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=BattleShips_DB;Trusted_Connection=True;Encrypt=False"
+  }
+}
